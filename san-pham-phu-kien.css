@@ -313,7 +313,8 @@ footer h3 {
     width: 90px;
     height: 90px;
     border-radius: 100%;
-
+    -webkit-transition: ease-in 0.4s;
+    -moz-transition: ease-in 0.4s;
 }
 .nut-back {
     width: 120px;
